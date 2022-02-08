@@ -42,3 +42,13 @@
 .description{
    
 }
+@media screen and (max-width:730px) {
+    .mid{
+        width: 80%;
+    }
+}
+@media screen and (max-width:500px) {
+    .mid{
+        width: 100%;
+    }
+}

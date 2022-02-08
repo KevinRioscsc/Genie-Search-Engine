@@ -54,6 +54,9 @@ export const Logo = styled.div`
 `
 export const Name = styled.h1`
     font-size:50px;
+    @media (max-width: 660px){
+        font-size:30px;
+    }
 `
 export const Search = styled.div`
     display:flex;
