@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 50px;
+   
+    gap: 10px;
+}
+.blue{
+    display: inline;
+   
+    width: 100%;
+}
+.blue:hover{
+   
+    /*
+    border-bottom: 1px solid #8ab4f8;*/
+
+}
+.mid{
+    width: 50%;
+}
+.spinner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.cardFlex{
+    width: 80%;
+    max-width: 250px;
+    font-size: 20px;
+}
+.margin{
+    
+    margin: 50px 50px;
+}
+.urlTitle{
+   
+}
+.description{
+   
+}

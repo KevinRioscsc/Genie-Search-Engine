@@ -1,0 +1,6 @@
+export {default as AI} from './AI'
+export {default as Home} from './Home'
+export {default as All} from './All'
+export {default as Images} from './Images'
+export {default as News} from './News'
+export {default as Videos} from './Videos'
